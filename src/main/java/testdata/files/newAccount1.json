@@ -1,0 +1,13 @@
+{
+  "firstName" : "someName",
+  "lastName" : "secondName",
+  "dob" : "1999-12-12",
+  "email" : "some@email.com",
+  "phone" : "07123123123",
+  "street1" : "street1",
+  "street2" : "street2",
+  "postalCode" : "101102",
+  "stateProvince" : "state",
+  "city" : "Best city",
+  "country" : "Great Country"
+}
